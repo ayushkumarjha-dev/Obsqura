@@ -1,6 +1,6 @@
 {
-  "next_day": 251,
-  "last_processed": "Microsegmentation: Granular Network Access Control",
+  "next_day": 252,
+  "last_processed": "SIM Swapping: Hijacking Phone Numbers for Account Takeover",
   "used_images": [
     "https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTR8&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1519575706483-221027bfbb31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTV8&ixlib=rb-4.1.0&q=80&w=1080",
@@ -250,6 +250,7 @@
     "https://images.unsplash.com/photo-1730355891913-fa032457d52a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw0fHxtYWxpY2lvdXMlMjBiYW5uZXIlMjBhZHZlcnRpc2VtZW50fGVufDB8MHx8fDE3OTM4NDk5NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1686061592689-312bbfb5c055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwzfHxuZXR3b3JrJTIwb3JjaGVzdHJhdGlvbiUyMGRhc2hib2FyZHxlbnwwfDB8fHwxNzkzOTM2MDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1584931423312-5d53d862446a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw5fHx0aHJlYXQlMjBpbnRlbGxpZ2VuY2UlMjBkYXNoYm9hcmR8ZW58MHwwfHx8MTc5NDAyMDYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "https://images.unsplash.com/photo-1562392015-97ffd8e180dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw2fHxuZXR3b3JrJTIwZ3JhbnVsYXIlMjBwYXJ0aXRpb258ZW58MHwwfHx8MTc5NDEwNTUyOXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "https://images.unsplash.com/photo-1562392015-97ffd8e180dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw2fHxuZXR3b3JrJTIwZ3JhbnVsYXIlMjBwYXJ0aXRpb258ZW58MHwwfHx8MTc5NDEwNTUyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "https://images.unsplash.com/photo-1753385158278-387d4dda60c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwxfHxzaW0lMjBjYXJkJTIwaGFja3xlbnwwfDB8fHwxNzk0MTkyODY1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   ]
 }
