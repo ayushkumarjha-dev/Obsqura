@@ -1,6 +1,6 @@
 {
-  "next_day": 253,
-  "last_processed": "Cybersecurity Automation: Reducing Human Error Through Technology",
+  "next_day": 254,
+  "last_processed": "Adversary Simulation Frameworks: Atomic Red Team and Caldera",
   "used_images": [
     "https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTR8&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1519575706483-221027bfbb31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTV8&ixlib=rb-4.1.0&q=80&w=1080",
@@ -252,6 +252,7 @@
     "https://images.unsplash.com/photo-1584931423312-5d53d862446a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw5fHx0aHJlYXQlMjBpbnRlbGxpZ2VuY2UlMjBkYXNoYm9hcmR8ZW58MHwwfHx8MTc5NDAyMDYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1562392015-97ffd8e180dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw2fHxuZXR3b3JrJTIwZ3JhbnVsYXIlMjBwYXJ0aXRpb258ZW58MHwwfHx8MTc5NDEwNTUyOXww&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1753385158278-387d4dda60c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwxfHxzaW0lMjBjYXJkJTIwaGFja3xlbnwwfDB8fHwxNzk0MTkyODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "https://images.unsplash.com/photo-1760199789455-49098afd02f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwzfHxhdXRvbWF0ZWQlMjB0aHJlYXQlMjBkZXRlY3Rpb258ZW58MHwwfHx8MTc5NDMxOTkxNnww&ixlib=rb-4.1.0&q=80&w=1080"
+    "https://images.unsplash.com/photo-1760199789455-49098afd02f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwzfHxhdXRvbWF0ZWQlMjB0aHJlYXQlMjBkZXRlY3Rpb258ZW58MHwwfHx8MTc5NDMxOTkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "https://images.unsplash.com/photo-1662638600476-d563fffbb072?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw3fHxjeWJlcnNlY3VyaXR5JTIwcGVuZXRyYXRpb24lMjB0ZXN0aW5nfGVufDB8MHx8fDE3OTQzNjU3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   ]
 }
