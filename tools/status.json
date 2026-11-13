@@ -1,6 +1,6 @@
 {
-  "next_day": 255,
-  "last_processed": "Drone Security: Cyber Risks from Unmanned Aerial Vehicles",
+  "next_day": 256,
+  "last_processed": "Digital Twin Security: Protecting Virtual Replicas of Physical Systems",
   "used_images": [
     "https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTR8&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1519575706483-221027bfbb31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTV8&ixlib=rb-4.1.0&q=80&w=1080",
@@ -254,6 +254,7 @@
     "https://images.unsplash.com/photo-1753385158278-387d4dda60c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwxfHxzaW0lMjBjYXJkJTIwaGFja3xlbnwwfDB8fHwxNzk0MTkyODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1760199789455-49098afd02f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwzfHxhdXRvbWF0ZWQlMjB0aHJlYXQlMjBkZXRlY3Rpb258ZW58MHwwfHx8MTc5NDMxOTkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1662638600476-d563fffbb072?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw3fHxjeWJlcnNlY3VyaXR5JTIwcGVuZXRyYXRpb24lMjB0ZXN0aW5nfGVufDB8MHx8fDE3OTQzNjU3NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "https://images.unsplash.com/photo-1495764506633-93d4dfed7c6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwxMHx8ZHJvbmUlMjBjeWJlciUyMHN1cnZlaWxsYW5jZXxlbnwwfDB8fHwxNzk0NDU2MTA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "https://images.unsplash.com/photo-1495764506633-93d4dfed7c6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwxMHx8ZHJvbmUlMjBjeWJlciUyMHN1cnZlaWxsYW5jZXxlbnwwfDB8fHwxNzk0NDU2MTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "https://images.unsplash.com/photo-1757466762489-52fea38071ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw0fHxkaWdpdGFsJTIwdHdpbiUyMHNpbXVsYXRpb258ZW58MHwwfHx8MTc5NDU0MDY5OHww&ixlib=rb-4.1.0&q=80&w=1080"
   ]
 }
