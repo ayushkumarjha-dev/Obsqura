@@ -1,6 +1,6 @@
 {
-  "next_day": 260,
-  "last_processed": "Cybersecurity Economics: Why Good Security is Hard to Justify",
+  "next_day": 261,
+  "last_processed": "Runtime Application Security: Protecting Apps Under Active Attack",
   "used_images": [
     "https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTR8&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1519575706483-221027bfbb31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTU0MTB8MHwxfGFsbHx8fHx8fHx8fDE3NjgxMDIzNTV8&ixlib=rb-4.1.0&q=80&w=1080",
@@ -259,6 +259,7 @@
     "https://images.unsplash.com/photo-1516382799247-87df95d790b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwZm9yZW5zaWMlMjBldmlkZW5jZXxlbnwwfDB8fHwxNzk0NjI2ODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1714460267533-44f667f091ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw3fHxicm9rZW4lMjBjb250YWluZXIlMjBjYWdlfGVufDB8MHx8fDE3OTQ3MTE0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwzfHxjb2xsYWJvcmF0aXZlJTIwY29kZSUyMHNlY3VyaXR5fGVufDB8MHx8fDE3OTQ3OTc4NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "https://images.unsplash.com/photo-1695462131540-c7e404f90445?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw2fHxkaWdpdGFsJTIwYnVkZ2V0JTIwY29uc3RyYWludHxlbnwwfDB8fHwxNzk0ODkyMjU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "https://images.unsplash.com/photo-1695462131540-c7e404f90445?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHw2fHxkaWdpdGFsJTIwYnVkZ2V0JTIwY29uc3RyYWludHxlbnwwfDB8fHwxNzk0ODkyMjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "https://images.unsplash.com/photo-1643917854632-137e2a61310b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTQ1NDZ8MHwxfHNlYXJjaHwzfHxydW50aW1lJTIwdGhyZWF0JTIwZGV0ZWN0aW9ufGVufDB8MHx8fDE3OTQ5NzY3NDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   ]
 }
